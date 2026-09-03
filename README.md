@@ -8,14 +8,8 @@ This project involved analyzing healthcare patient treatment data using Microsof
 
 ## Tools & Technologies 
 
-**Primary Tool:**
-
-Microsoft Excel
-
-![Healthcare Patient Treatment](https://github.com/rukayatadetola/Healthcare-Patient-Treatment-Analysis/blob/main/Screenshot%202026-09-03%20092807.jpg)
-
-**Excel features used:**
-
+**Microsoft Excel:this tool was used for**
+- Data Entry
 - Data cleaning and preparation
 - Pivot Tables
 - Pivot Charts
@@ -23,3 +17,10 @@ Microsoft Excel
 - Aggregations and calculated metrics
 - Dashboard design and formatting
 - Data visualization
+
+
+![Healthcare Patient Treatment](https://github.com/rukayatadetola/Healthcare-Patient-Treatment-Analysis/blob/main/Screenshot%202026-09-03%20092807.jpg)
+
+
+## Dashboard
+![Healthcare Patient Treatment Dashboard]()
