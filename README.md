@@ -1,4 +1,4 @@
-# Healthcare-Patient-Treatment-Analysis
+# Healthcare Patient Treatment Analysis
 Excel + Power BI
 
 ## Table of Content
@@ -11,7 +11,8 @@ This project involved analyzing healthcare patient treatment data using Microsof
 **Primary Tool:**
 
 Microsoft Excel
-![]
+![Healthcare Patient Treatment](https://github.com/rukayatadetola/Healthcare-Patient-Treatment-Analysis/blob/main/Screenshot%202026-09-03%20092807.jpg)
+
 **Excel features used:**
 
 - Data cleaning and preparation
