@@ -23,4 +23,4 @@ This project involved analyzing healthcare patient treatment data using Microsof
 
 
 ## Dashboard
-![Healthcare Patient Treatment Dashboard]()
+![Healthcare Patient Treatment Dashboard](https://github.com/rukayatadetola/Healthcare-Patient-Treatment-Analysis/blob/main/Screenshot%202026-06-16%20155522.jpg)
