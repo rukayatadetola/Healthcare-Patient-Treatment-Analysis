@@ -3,6 +3,10 @@ Excel + Power BI
 
 ## Table of Content
 - [Project Overview](#project-overview)
+- [Tools & Technologies](#tools-&-technologies)
+- [Dashboard](#dashboard)
+- [Results/Findings](#results/findings)
+- [Recommendations](#recommendations)
 
 ## Project Overview
 This project involved analyzing healthcare patient treatment data using Microsoft Excel and developing an interactive dashboard to transform the underlying dataset into meaningful business and healthcare insights.
